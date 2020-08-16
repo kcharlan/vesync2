@@ -1,0 +1,96 @@
+
+Device Name:... Lava Lamp      
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... 0631e5d0-5604-482c-ac7f-7107998c797d
+UUID: ......... 0631e5d0-5604-482c-ac7f-7107998c797d
+Active Time : . 0  minutes
+Energy: ....... 0  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 2.9808  kWh
+Energy Month: . 4.8334  kWh
+Energy Year: .. 4.8334  kWh
+
+Device Name:... Front Room Light
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... 67afb469-e2d5-4099-b77e-8cc038dc0e06
+UUID: ......... 67afb469-e2d5-4099-b77e-8cc038dc0e06
+Active Time : . 2  minutes
+Energy: ....... 0  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 0.4384  kWh
+Energy Month: . 1.053  kWh
+Energy Year: .. 17.5485  kWh
+
+Device Name:... Computer Light 
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... 04579ac1-d21f-477b-81b8-e7e2c0c038c7
+UUID: ......... 04579ac1-d21f-477b-81b8-e7e2c0c038c7
+Active Time : . 5552  minutes
+Energy: ....... 0.02  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 0.0294  kWh
+Energy Month: . 0.0294  kWh
+Energy Year: .. 3.259  kWh
+
+Device Name:... Bathroom Heater
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... 7158cca0-4874-4389-a3d4-133de979303a
+UUID: ......... 7158cca0-4874-4389-a3d4-133de979303a
+Active Time : . 315717  minutes
+Energy: ....... 0  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 0.0  kWh
+Energy Month: . 0.0  kWh
+Energy Year: .. 0.0  kWh
+
+Device Name:... Bedroom Fan    
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... d42dcdc9-84db-494a-a7ca-8975a2bb705b
+UUID: ......... d42dcdc9-84db-494a-a7ca-8975a2bb705b
+Active Time : . 99311  minutes
+Energy: ....... 0  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 0.0  kWh
+Energy Month: . 0.0  kWh
+Energy Year: .. 51.4367  kWh
+
+Device Name:... Bedroom Light  
+Model: ........ wifi-switch-1.3
+Subdevice No: . None           
+Status: ....... off            
+Online: ....... online         
+Type: ......... wifi-switch    
+CID: .......... 645b9a00-fa74-4f71-b046-d4b11773f3c1
+UUID: ......... 645b9a00-fa74-4f71-b046-d4b11773f3c1
+Active Time : . 1366  minutes
+Energy: ....... 0.05  kWh
+Power: ........ 0.0  Watts
+Voltage: ...... 0.0  Volts
+Energy Week: .. 0.2619  kWh
+Energy Month: . 0.5992  kWh
+Energy Year: .. 10.3036  kWh
